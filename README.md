@@ -41,3 +41,8 @@ if (example_project.rootModuleTarget().os.tag == .macos) {
 ```
 
 Replace `example_project` with your actual project variable name.
+
+## Example
+
+The Zignite repository features a full example of how to use this.
+https://github.com/Thomvanoorschot/zignite

@@ -6,6 +6,6 @@
     .paths = .{
         "build.zig",
         "build.zig.zon",
-        "libdawn.a",
+        "dawn.a",
     },
 }
